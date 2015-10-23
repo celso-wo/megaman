@@ -8,5 +8,10 @@
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+
+  "hubot-help",
+  "hubot-motivate",
+  "hubot-plusplus",
+  "hubot-standup-alarm"
 ]
